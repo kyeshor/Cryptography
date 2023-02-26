@@ -1,0 +1,5 @@
+{
+  "name": "secretmesssenger - Development",
+  "jwtKey": "Pnz%%xZ8ppi8gPp8PZzxJenNwUEp#P9GA$RcqUe@^",
+  "MONGODB_URI": "mongodb+srv://kishortimalsina17:fY96E1QNdNpPEAxs@cluster0.gjzgswp.mongodb.net/messenger?retryWrites=true&w=majority"
+}
